@@ -1,4 +1,4 @@
 # Creating Printf Function
-### collaborators
+### Collaborators
 * Masentle Moloi -- pearlmase
 * Oyetimehin Ayomide -- Ayomide0123
